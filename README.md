@@ -23,4 +23,10 @@ actions that can be effected to enable sustainable ecosystem
 similar to scenario presented during the lockdown period; but
 in an efficient way that won’t increase hunger and lower GDP of
 starving nations.
-![image](https://user-images.githubusercontent.com/26904085/166342691-187def32-6170-45f5-9ea6-fb17ae2d5d22.png)
+
+# Tools
+* QGIS
+* Python
+* GEE
+* Figma
+* PowerPoint
