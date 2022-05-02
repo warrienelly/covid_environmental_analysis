@@ -14,3 +14,13 @@ However, despite all this, nature happens to be recuperating,
 and the environment seems to be in its best moment of 
 non-human involvement. 
 
+# Solution
+
+With an interlude in completion, this analysis attempts to
+quantify the effect of locked down imposed during covid on
+the environment and relate it with human activities and
+actions that can be effected to enable sustainable ecosystem 
+similar to scenario presented during the lockdown period; but
+in an efficient way that won’t increase hunger and lower GDP of
+starving nations.
+![image](https://user-images.githubusercontent.com/26904085/166342691-187def32-6170-45f5-9ea6-fb17ae2d5d22.png)
