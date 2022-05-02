@@ -30,3 +30,13 @@ starving nations.
 * GEE
 * Figma
 * PowerPoint
+
+# Data Utilized
+
+![image](https://user-images.githubusercontent.com/26904085/166342917-94b5619c-31c6-43ee-af61-dd40742ce615.png)
+
+# Process
+From Data Collection to Presentation
+![image](https://user-images.githubusercontent.com/26904085/166342951-3e9f3090-4cb9-4722-ba77-1b96e7743149.png)
+
+
