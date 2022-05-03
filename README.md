@@ -41,4 +41,4 @@ From Data Collection to Presentation
 
 # Documentation and Summary
 
-[Document](Environmental Analysis - Document.pdf)
+![Document](https://github.com/warrienelly/covid_environmental_analysis/blob/main/Environmental%20Analysis%20-%20Document.pdf)
