@@ -1,0 +1,241 @@
+Trip_type,Passenger,Quarter,Year,State,movement
+ARR,"  404,939 ",Q1,2021,Lagos,Domestic
+DEP,"  359,937 ",Q1,2021,Lagos,Domestic
+ARR,"  433,881 ",Q2,2021,Lagos,Domestic
+DEP,"  427,439 ",Q2,2021,Lagos,Domestic
+ARR,"  571,425 ",Q3,2021,Lagos,Domestic
+DEP,"  539,878 ",Q3,2021,Lagos,Domestic
+ARR,"  673,323 ",Q4,2021,Lagos,Domestic
+DEP,"  682,890 ",Q4,2021,Lagos,Domestic
+ARR,"  2,083,568 ",FULL,2021,Lagos,Domestic
+DEP,"  2,010,144 ",FULL,2021,Lagos,Domestic
+ARR,"  509,356 ",Q1,2020,Lagos,Domestic
+DEP,"  472,779 ",Q1,2020,Lagos,Domestic
+ARR,"  555,099 ",Q2,2020,Lagos,Domestic
+DEP,"  259,220 ",Q2,2020,Lagos,Domestic
+ARR,"  242,454 ",Q3,2020,Lagos,Domestic
+DEP,"  240,154 ",Q3,2020,Lagos,Domestic
+ARR,"  403,029 ",Q4,2020,Lagos,Domestic
+DEP,"  430,544 ",Q4,2020,Lagos,Domestic
+ARR,"  1,709,938 ",FULL,2020,Lagos,Domestic
+DEP,"  1,402,697 ",FULL,2020,Lagos,Domestic
+ARR,"  465,474 ",Q1,2019,Lagos,Domestic
+DEP,"  465,082 ",Q1,2019,Lagos,Domestic
+ARR,"  557,638 ",Q2,2019,Lagos,Domestic
+DEP,"  515,671 ",Q2,2019,Lagos,Domestic
+ARR,"  562,283 ",Q3,2019,Lagos,Domestic
+DEP,"  550,338 ",Q3,2019,Lagos,Domestic
+ARR,"  569,482 ",Q4,2019,Lagos,Domestic
+DEP,"  607,513 ",Q4,2019,Lagos,Domestic
+ARR,"  2,154,877 ",FULL,2019,Lagos,Domestic
+DEP,"  2,138,604 ",FULL,2019,Lagos,Domestic
+ARR,"  499,576 ",Q1,2018,Lagos,Domestic
+DEP,"  483,020 ",Q1,2018,Lagos,Domestic
+ARR,"  536,597 ",Q2,2018,Lagos,Domestic
+DEP,"  527,132 ",Q2,2018,Lagos,Domestic
+ARR,"  1,036,173 ",Q3,2018,Lagos,Domestic
+DEP,"  1,010,152 ",Q3,2018,Lagos,Domestic
+ARR,"  581,047 ",Q4,2018,Lagos,Domestic
+DEP,"  578,295 ",Q4,2018,Lagos,Domestic
+ARR,"  2,653,393 ",FULL,2018,Lagos,Domestic
+DEP,"  2,598,599 ",FULL,2018,Lagos,Domestic
+ARR,150982,Q1,2021,Lagos,Foreign
+DEP,166243,Q1,2021,Lagos,Foreign
+ARR,162720,Q2,2021,Lagos,Foreign
+DEP,173121,Q2,2021,Lagos,Foreign
+ARR,203776,Q3,2021,Lagos,Foreign
+DEP,231118,Q3,2021,Lagos,Foreign
+ARR,270396,Q4,2021,Lagos,Foreign
+DEP,237166,Q4,2021,Lagos,Foreign
+ARR,787874,FULL,2021,Lagos,Foreign
+DEP,807648,FULL,2021,Lagos,Foreign
+ARR,287379,Q1,2020,Lagos,Foreign
+DEP,324355,Q1,2020,Lagos,Foreign
+ARR,1868,Q2,2020,Lagos,Foreign
+DEP,12917,Q2,2020,Lagos,Foreign
+ARR,36589,Q3,2020,Lagos,Foreign
+DEP,38386,Q3,2020,Lagos,Foreign
+ARR,153446,Q4,2020,Lagos,Foreign
+DEP,142820,Q4,2020,Lagos,Foreign
+ARR,479282,FULL,2020,Lagos,Foreign
+DEP,518478,FULL,2020,Lagos,Foreign
+ARR,334055,Q1,2019,Lagos,Foreign
+DEP,378960,Q1,2019,Lagos,Foreign
+ARR,379654,Q2,2019,Lagos,Foreign
+DEP,394540,Q2,2019,Lagos,Foreign
+ARR,426194,Q3,2019,Lagos,Foreign
+DEP,447197,Q3,2019,Lagos,Foreign
+ARR,438549,Q4,2019,Lagos,Foreign
+DEP,403688,Q4,2019,Lagos,Foreign
+ARR,1578452,FULL,2019,Lagos,Foreign
+DEP,1624385,FULL,2019,Lagos,Foreign
+ARR,327930,Q1,2018,Lagos,Foreign
+DEP,367626,Q1,2018,Lagos,Foreign
+ARR,348615,Q2,2018,Lagos,Foreign
+DEP,375770,Q2,2018,Lagos,Foreign
+ARR,390960,Q3,2018,Lagos,Foreign
+DEP,398906,Q3,2018,Lagos,Foreign
+ARR,421646,Q4,2018,Lagos,Foreign
+DEP,386524,Q4,2018,Lagos,Foreign
+ARR,1489151,FULL,2018,Lagos,Foreign
+DEP,1528826,FULL,2018,Lagos,Foreign
+ARR,61744,Q1,2021,Abuja,Foreign
+DEP,56046,Q1,2021,Abuja,Foreign
+ARR,54454,Q1,2021,Abuja,Foreign
+DEP,55812,Q2,2021,Abuja,Foreign
+ARR,73863,Q2,2021,Abuja,Foreign
+DEP,80650,Q3,2021,Abuja,Foreign
+ARR,99915,Q3,2021,Abuja,Foreign
+DEP,82578,Q4,2021,Abuja,Foreign
+ARR,289976,FULL,2021,Abuja,Foreign
+DEP,275086,FULL,2021,Abuja,Foreign
+ARR,119317,Q1,2020,Abuja,Foreign
+DEP,107223,Q1,2020,Abuja,Foreign
+ARR,1758,Q2,2020,Abuja,Foreign
+DEP,2358,Q2,2020,Abuja,Foreign
+ARR,18165,Q3,2020,Abuja,Foreign
+DEP,15292,Q3,2020,Abuja,Foreign
+ARR,58241,Q4,2020,Abuja,Foreign
+DEP,54356,Q4,2020,Abuja,Foreign
+ARR,197481,FULL,2020,Abuja,Foreign
+DEP,179229,FULL,2020,Abuja,Foreign
+ARR,96880,Q1,2019,Abuja,Foreign
+DEP,110559,Q1,2019,Abuja,Foreign
+ARR,122139,Q2,2019,Abuja,Foreign
+DEP,125561,Q2,2019,Abuja,Foreign
+ARR,144936,Q3,2019,Abuja,Foreign
+DEP,152295,Q3,2019,Abuja,Foreign
+ARR,142889,Q4,2019,Abuja,Foreign
+DEP,143461,Q4,2019,Abuja,Foreign
+ARR,506844,FULL,2019,Abuja,Foreign
+DEP,531876,FULL,2019,Abuja,Foreign
+ARR,104371,Q1,2018,Abuja,Foreign
+DEP,107253,Q1,2018,Abuja,Foreign
+ARR,118867,Q2,2018,Abuja,Foreign
+DEP,121035,Q2,2018,Abuja,Foreign
+ARR,134792,Q3,2018,Abuja,Foreign
+DEP,139559,Q3,2018,Abuja,Foreign
+ARR,135536,Q4,2018,Abuja,Foreign
+DEP,137696,Q4,2018,Abuja,Foreign
+ARR,493566,FULL,2018,Abuja,Foreign
+DEP,505543,FULL,2018,Abuja,Foreign
+ARR,6,Q1,2021,Port Harcourt,Foreign
+DEP,0,Q1,2021,Port Harcourt,Foreign
+ARR,43,Q2,2021,Port Harcourt,Foreign
+DEP,49,Q2,2021,Port Harcourt,Foreign
+ARR,3175,Q3,2021,Port Harcourt,Foreign
+DEP,3061,Q3,2021,Port Harcourt,Foreign
+ARR,5126,Q4,2021,Port Harcourt,Foreign
+DEP,3059,Q4,2021,Port Harcourt,Foreign
+ARR,8350,FULL,2021,Port Harcourt,Foreign
+DEP,6169,FULL,2021,Port Harcourt,Foreign
+ARR,12647,Q1,2020,Port Harcourt,Foreign
+DEP,16448,Q1,2020,Port Harcourt,Foreign
+ARR,66,Q2,2020,Port Harcourt,Foreign
+DEP,540,Q2,2020,Port Harcourt,Foreign
+ARR,0,Q3,2020,Port Harcourt,Foreign
+DEP,0,Q3,2020,Port Harcourt,Foreign
+ARR,24,Q4,2020,Port Harcourt,Foreign
+DEP,32,Q4,2020,Port Harcourt,Foreign
+ARR,12737,FULL,2020,Port Harcourt,Foreign
+DEP,17020,FULL,2020,Port Harcourt,Foreign
+ARR,9489,Q1,2019,Port Harcourt,Foreign
+DEP,12584,Q1,2019,Port Harcourt,Foreign
+ARR,8334,Q2,2019,Port Harcourt,Foreign
+DEP,8137,Q2,2019,Port Harcourt,Foreign
+ARR,13482,Q3,2019,Port Harcourt,Foreign
+DEP,14511,Q3,2019,Port Harcourt,Foreign
+ARR,19220,Q4,2019,Port Harcourt,Foreign
+DEP,14161,Q4,2019,Port Harcourt,Foreign
+ARR,50525,FULL,2019,Port Harcourt,Foreign
+DEP,49393,FULL,2019,Port Harcourt,Foreign
+ARR,10286,Q1,2018,Port Harcourt,Foreign
+DEP,10135,Q1,2018,Port Harcourt,Foreign
+ARR,8387,Q2,2018,Port Harcourt,Foreign
+DEP,9606,Q2,2018,Port Harcourt,Foreign
+ARR,13017,Q3,2018,Port Harcourt,Foreign
+DEP,12520,Q3,2018,Port Harcourt,Foreign
+ARR,14105,Q4,2018,Port Harcourt,Foreign
+DEP,11387,Q4,2018,Port Harcourt,Foreign
+ARR,45795,FULL,2018,Port Harcourt,Foreign
+DEP,43648,FULL,2018,Port Harcourt,Foreign
+ARR,469599,Q1,2021,Abuja,Domestic
+DEP,462810,Q1,2021,Abuja,Domestic
+ARR,506374,Q2,2021,Abuja,Domestic
+DEP,510507,Q2,2021,Abuja,Domestic
+ARR,672419,Q3,2021,Abuja,Domestic
+DEP,658479,Q3,2021,Abuja,Domestic
+ARR,714818,Q4,2021,Abuja,Domestic
+DEP,763837,Q4,2021,Abuja,Domestic
+ARR,2363210,FULL,2021,Abuja,Domestic
+DEP,2395633,FULL,2021,Abuja,Domestic
+ARR,602827,Q1,2020,Abuja,Domestic
+DEP,560037,Q1,2020,Abuja,Domestic
+ARR,566065,Q2,2020,Abuja,Domestic
+DEP,295800,Q2,2020,Abuja,Domestic
+ARR,279848,Q3,2020,Abuja,Domestic
+DEP,285588,Q3,2020,Abuja,Domestic
+ARR,456650,Q4,2020,Abuja,Domestic
+DEP,456758,Q4,2020,Abuja,Domestic
+ARR,1905390,FULL,2020,Abuja,Domestic
+DEP,1598183,FULL,2020,Abuja,Domestic
+ARR,494343,Q1,2019,Abuja,Domestic
+DEP,457005,Q1,2019,Abuja,Domestic
+ARR,525385,Q2,2019,Abuja,Domestic
+DEP,522745,Q2,2019,Abuja,Domestic
+ARR,702912,Q3,2019,Abuja,Domestic
+DEP,568818,Q3,2019,Abuja,Domestic
+ARR,579237,Q4,2019,Abuja,Domestic
+DEP,665137,Q4,2019,Abuja,Domestic
+ARR,2301877,FULL,2019,Abuja,Domestic
+DEP,2213705,FULL,2019,Abuja,Domestic
+ARR,434446,Q1,2018,Abuja,Domestic
+DEP,422772,Q1,2018,Abuja,Domestic
+ARR,455882,Q2,2018,Abuja,Domestic
+DEP,452318,Q2,2018,Abuja,Domestic
+ARR,890328,Q3,2018,Abuja,Domestic
+DEP,875090,Q3,2018,Abuja,Domestic
+ARR,535986,Q4,2018,Abuja,Domestic
+DEP,556714,Q4,2018,Abuja,Domestic
+ARR,2316642,FULL,2018,Abuja,Domestic
+DEP,2306894,FULL,2018,Abuja,Domestic
+ARR,80225,Q1,2021,Port Harcourt,Domestic
+DEP,84788,Q1,2021,Port Harcourt,Domestic
+ARR,94135,Q2,2021,Port Harcourt,Domestic
+DEP,96071,Q2,2021,Port Harcourt,Domestic
+ARR,119135,Q3,2021,Port Harcourt,Domestic
+DEP,118205,Q3,2021,Port Harcourt,Domestic
+ARR,164365,Q4,2021,Port Harcourt,Domestic
+DEP,143804,Q4,2021,Port Harcourt,Domestic
+ARR,457860,FULL,2021,Port Harcourt,Domestic
+DEP,442868,FULL,2021,Port Harcourt,Domestic
+ARR,141821,Q1,2020,Port Harcourt,Domestic
+DEP,146306,Q1,2020,Port Harcourt,Domestic
+ARR,6482,Q2,2020,Port Harcourt,Domestic
+DEP,6584,Q2,2020,Port Harcourt,Domestic
+ARR,56392,Q3,2020,Port Harcourt,Domestic
+DEP,58966,Q3,2020,Port Harcourt,Domestic
+ARR,94714,Q4,2020,Port Harcourt,Domestic
+DEP,90582,Q4,2020,Port Harcourt,Domestic
+ARR,299409,FULL,2020,Port Harcourt,Domestic
+DEP,302438,FULL,2020,Port Harcourt,Domestic
+ARR,125708,Q1,2019,Port Harcourt,Domestic
+DEP,131276,Q1,2019,Port Harcourt,Domestic
+ARR,145532,Q2,2019,Port Harcourt,Domestic
+DEP,145456,Q2,2019,Port Harcourt,Domestic
+ARR,152008,Q3,2019,Port Harcourt,Domestic
+DEP,155141,Q3,2019,Port Harcourt,Domestic
+ARR,158468,Q4,2019,Port Harcourt,Domestic
+DEP,152247,Q4,2019,Port Harcourt,Domestic
+ARR,581716,FULL,2019,Port Harcourt,Domestic
+DEP,584120,FULL,2019,Port Harcourt,Domestic
+ARR,118342,Q1,2018,Port Harcourt,Domestic
+DEP,119986,Q1,2018,Port Harcourt,Domestic
+ARR,132459,Q2,2018,Port Harcourt,Domestic
+DEP,132376,Q2,2018,Port Harcourt,Domestic
+ARR,250801,Q3,2018,Port Harcourt,Domestic
+DEP,252362,Q3,2018,Port Harcourt,Domestic
+ARR,155791,Q4,2018,Port Harcourt,Domestic
+DEP,149527,Q4,2018,Port Harcourt,Domestic
+ARR,657393,FULL,2018,Port Harcourt,Domestic
+DEP,654251,FULL,2018,Port Harcourt,Domestic
