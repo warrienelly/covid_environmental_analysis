@@ -31,6 +31,8 @@ starving nations.
 * Figma
 * PowerPoint
 
+Analyses were done majorly using Jupyter Notebook; find the [Notebook](https://github.com/warrienelly/covid_environmental_analysis/tree/main/Notebooks) in the directory
+
 # Data Utilized
 
 ![image](https://user-images.githubusercontent.com/26904085/166342917-94b5619c-31c6-43ee-af61-dd40742ce615.png)
